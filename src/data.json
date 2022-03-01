@@ -1,0 +1,50 @@
+{
+    "products":[
+        { "_id": "dress1", 
+            "title": "Dress for summer", 
+            "image": "/images/dress1.jpeg",
+            "description": "The ultimate summer jam",
+            "price": 19,
+            "availableSizes": ["XL", "XXL"]
+        },
+        { "_id": "dress2", 
+            "title": "Dress for spring", 
+            "image": "/images/dress2.jpeg",
+            "description": "Spring as it comes",
+            "price": 21,
+            "availableSizes": ["M", "S", "L"]
+        },
+        {
+            "_id": "dress3", 
+            "title": "Dress for less", 
+            "image": "/images/dress3.jpeg",
+            "description": "The best option for low budget",
+            "price": 11,
+            "availableSizes": ["S", "SS", "M", "L"]
+        },
+        {
+            "_id": "dress4", 
+            "title": "Fatal dress", 
+            "image": "/images/dress4.jpeg",
+            "description": "Be irresistible on this one",
+            "price": 25,
+            "availableSizes": ["S", "M", "L", "XL"]
+        },
+        {
+            "_id": "dress5", 
+            "title": "Passion in the air", 
+            "image": "/images/dress5.jpeg",
+            "description": "Be charming and elegant",
+            "price": 19,
+            "availableSizes": ["SS", "S", "M", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress6", 
+            "title": "Look fresh and shiny", 
+            "image": "/images/dress6.jpeg",
+            "description": "Share all the glow there is inside of you",
+            "price": 21,
+            "availableSizes": ["SS", "S", "M", "L", "XL", "XXL"]
+        }
+    ]
+}
